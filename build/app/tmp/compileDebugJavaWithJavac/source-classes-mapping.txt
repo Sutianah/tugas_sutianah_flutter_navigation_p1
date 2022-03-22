@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/tugas_sutianah_flutter_navigation_p1/BuildConfig.java
+ com.example.tugas_sutianah_flutter_navigation_p1.BuildConfig

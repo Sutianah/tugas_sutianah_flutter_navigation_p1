@@ -1,0 +1,4 @@
+#Tue Mar 22 09:58:31 ICT 2022
+base.0=D\:\\Study\\Semester 6\\Pengembangan Aplikasi Mobile Lanjut\\Tugas\\Coding\\tugas_sutianah_flutter_navigation_p1\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
